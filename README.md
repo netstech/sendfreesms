@@ -4,7 +4,7 @@
 
 - `Warning: Standard Mobile Charges will applied on sending every SMS from your Mobile Phone`
 ## Download Mobile App
-= `https://play.google.com/store/apps/details?id=smsapi.netstech.net`
+  `https://play.google.com/store/apps/details?id=smsapi.netstech.net`
 
 ## How its work
 
