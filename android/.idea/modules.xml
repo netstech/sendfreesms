@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/URLSMS.iml" filepath="$PROJECT_DIR$/URLSMS.iml" group="URLSMS" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="URLSMS/app" />
+    </modules>
+  </component>
+</project>
