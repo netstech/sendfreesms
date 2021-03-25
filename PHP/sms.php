@@ -1,13 +1,16 @@
 <?php
-//Database Configuration
+/**Database Configuration**/
 
 $host = "localhost";
 $db_user = "root";
 $db_password = "";
 $db_name = "";
+/************ Password For Mobile App ********/
+$password = "netstech";
+/************ Password For Mobile App ********/
 
 if(isset($_GET['pass'])){
-if($_GET['pass']=='netstech'){
+if($_GET['pass']== $password){
 
 $connection = mysqli_connect($host,$db_user,$db_password,$db_name);
 
